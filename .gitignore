@@ -1,0 +1,10 @@
+build/
+dist/
+*.pyc
+*.egg-info/
+*.orig
+*.tmp
+*.DS_Store
+.hg
+.hgtags
+.hgignore
